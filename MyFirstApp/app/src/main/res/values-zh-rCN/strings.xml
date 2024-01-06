@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">我的第一个应用程序</string>
+    <string name="title_activity_main">主要活动</string>
+    <!-- 用于导航片段的字符串 -->
+    <string name="first_fragment_label">第一个片段</string>
+    <string name="second_fragment_label">第二个片段</string>
+    <string name="next">下一个</string>
+    <string name="previous">上一个</string>
+
+    <string name="toast_button_text">吐司</string>
+    <string name="random_button_text">随机</string>
+    <string name="count_button_text">计数</string>
+    <string name="text_second_fragment">第二个片段 \n 这是 0 到 %d 之间的随机数。</string>
+</resources>

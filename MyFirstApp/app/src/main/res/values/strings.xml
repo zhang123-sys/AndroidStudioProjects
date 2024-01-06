@@ -1,0 +1,16 @@
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My First App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="toast_button_text">Toast</string>
+    <string name="random_button_text">Random</string>
+    <string name="count_button_text">Count</string>
+    <string name="text_second_fragment">second fragment \n Here is a random number between 0 and %d.</string>
+    <!--    <string name="second_fragment_text">第2个界面</string>-->
+<!--    <string name="first_fragment_text">第1个界面</string>-->
+</resources>
